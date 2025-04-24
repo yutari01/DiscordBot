@@ -6,8 +6,9 @@ from .resume import resume
 from .queuelist import queue  
 from .skip import skip
 from .nowplaying import nowplaying
+from .chat import chat
 
 __all__ = [
     'join', 'leave', 'play', 'pause', 'resume',
-    'queue', 'skip', 'nowplaying'
+    'queue', 'skip', 'nowplaying', 'chat'
 ]

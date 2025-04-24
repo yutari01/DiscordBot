@@ -1,0 +1,1 @@
+from localization import get_string
